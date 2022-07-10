@@ -1,3 +1,0 @@
-this is a demo for git 
-updateing the code 
-more update 
